@@ -6,7 +6,7 @@ This project is a simple Java-based HTTP server that serves random motivational 
 - Serves random motivational quotes in JSON format.
 - Uses an external `quotes.txt` file for configurable quotes.
 - Lightweight HTTP server using `com.sun.net.httpserver.HttpServer`.
-- Dockerized for easy deploymnt.
+- Dockerized for easy deployment.
 
 ## Requirements
 - Java 17+
